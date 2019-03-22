@@ -12,7 +12,9 @@ public class Main {
 
         int w = 50;
 
-        System.out.println("...");
+        System.out.println("pois é...");
+        System.out.println("não é...");
+        System.out.println("é sim...");
 
     }
 }
